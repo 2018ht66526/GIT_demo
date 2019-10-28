@@ -2,7 +2,10 @@
  
 int main()
 {
-   int a, b;
+   int a, b, c, d;
+   
+   c = a - b;
+   d = b - a;
    
    printf("Input two integers (a & b) to swap completed\n");
    scanf("%d%d", &a, &b);
