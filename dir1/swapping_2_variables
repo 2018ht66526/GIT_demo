@@ -4,7 +4,7 @@ int main()
 {
    int a, b;
    
-   printf("Input two integers (a & b) to swap\n");
+   printf("Input two integers (a & b) to swap completed\n");
    scanf("%d%d", &a, &b);
    
    a = a + b;
